@@ -29,7 +29,7 @@
       :class="currentRoute === 'MainPage' ? 'text-[#3C9DC5]' :'text-white' " 
       class="navs relative hover:text-[#3C9DC5] ">Home</button>
     </router-link>
-    <router-link to="/products">
+    <router-link to="/">
       <button class="navs relative hover:text-[#3C9DC5]">Projects</button>
     </router-link>
     <router-link to="/contact">

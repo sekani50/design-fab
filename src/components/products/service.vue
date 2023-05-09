@@ -1,6 +1,6 @@
 <!-- eslint-disable -->
 <template>
-  <div class="collectio w-full mt-[-25px] sm:mt-0 space-y-[5%]">
+  <div class="collectio w-full mt-[-25px] sm:mt-0 space-y-[2%]">
     <div class="flex w-full justify-center items-center space-x-2">
       <span class="h-[2px] w-16 sm:w-24 bg-[#3C9DC5] relative">
         <span
@@ -43,7 +43,7 @@
     </div>
 
     <div
-      class="p-2 sm:p-6 bg-black bg-opacity-70  relative sm:py-8 py-6 w-full h-fit"
+      class="p-2 sm:p-6 bg-black bg-opacity-70  space-y-[2%]  relative sm:py-8 py-6 w-full h-fit"
     >
       <div class="absolute inset-0 w-full h-full -z-10">
         <img
