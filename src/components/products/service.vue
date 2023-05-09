@@ -43,7 +43,7 @@
     </div>
 
     <div
-      class="p-2 sm:p-6 bg-black bg-opacity-70  space-y-[2%]  relative sm:py-8 py-6 w-full h-fit"
+      class="p-6 sm:p-6 bg-black bg-opacity-70  space-y-[2%]  relative sm:py-8 py-6 w-full h-fit"
     >
       <div class="absolute inset-0 w-full h-full -z-10">
         <img
