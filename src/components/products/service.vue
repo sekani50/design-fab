@@ -61,7 +61,7 @@
 
       <div class="mx-auto grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3">
         <div
-          class="text-zinc-900 text-center w-full sm:p-6 p-4 space-y-2 bg-white flex flex-col justify-center items-center shadow-lg rounded-lg"
+          class="text-zinc-900 text-center w-full sm:p-6 p-4 space-y-2 bg-white  bg-opacity-80 flex flex-col justify-center items-center shadow-lg rounded-lg"
         >
           <div class="w-12 h-12 sm:w-16 sm:h-16">
             <img class="w-full h-full" src="@/assets/images/solid.png" alt="" />
@@ -80,7 +80,7 @@
         </div>
 
         <div
-          class="text-gray-900 text-center w-full sm:p-6 p-4 space-y-2 bg-white flex flex-col justify-center items-center shadow-lg rounded-lg"
+          class="text-gray-900 text-center w-full sm:p-6 p-4 space-y-2 bg-white bg-opacity-80 flex flex-col justify-center items-center shadow-lg rounded-lg"
         >
           <div class="w-12 h-12 sm:w-16 sm:h-16">
             <img
@@ -102,7 +102,7 @@
         </div>
 
         <div
-          class="text-gray-900 text-center w-full sm:p-6 p-4 space-y-2 bg-white flex flex-col justify-center items-center shadow-lg rounded-lg"
+          class="text-gray-900 text-center w-full sm:p-6 p-4 space-y-2 bg-white  bg-opacity-80 flex flex-col justify-center items-center shadow-lg rounded-lg"
         >
           <div class="w-12 h-12 sm:w-16 sm:h-16">
             <img
