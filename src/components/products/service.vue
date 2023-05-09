@@ -1,6 +1,6 @@
 <!-- eslint-disable -->
 <template>
-  <div class="collectio w-full mt-[-25px] sm:mt-0 space-y-[2%]">
+  <div class="collectio w-full mt-[-25px] sm:text-lg text-sm sm:mt-0 space-y-[2%]">
     <div class="flex w-full justify-center items-center space-x-2">
       <span class="h-[2px] w-16 sm:w-24 bg-[#3C9DC5] relative">
         <span
