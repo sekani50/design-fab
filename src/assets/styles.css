@@ -1,0 +1,137 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+
+@media (max-width:450px) {
+    ::-webkit-scrollbar {
+    display: none;
+  }
+  .navs {
+    width: 100%;
+  }
+  .hide{
+    display:none
+  }
+  }
+
+.name {
+  font-family: DynaPuff;
+}
+.other-name {
+    font-family: Pacifico;
+}
+.trend {
+    font-family:Kanit;
+}
+.special {
+  font-family:Dancing Script;
+}
+.collectio {
+  font-family: Montserrat;
+}
+.navs::after {
+    content: "";
+    position: absolute;
+    @apply bg-[#3C9DC5];
+    height: 3px;
+    width: 0%;
+    bottom: -20px;
+    left: 0;
+    transition: 0.3s;
+  }
+
+  .navs:hover::after {
+    width: 100%;
+  }
+
+  .let {
+    
+    -webkit-animation-duration: 0.8s;
+    animation-duration: 0.8s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+  }
+  
+  .swipeIn {
+    animation-name: swipeIn;
+    -webkit-animation-name: swipeIn;
+  }
+  
+  @keyframes swipeIn {
+    0% {
+        transform: translateX(200%);
+    }
+  
+    100% {
+        transform: translateX(0px);
+    }
+  }
+  
+  
+  @-webkit-keyframes swipeIn {
+    0% {
+        -webkit-transform: translateX(200%);
+    }
+  
+    100% {
+        -webkit-transform: translateX(0px);
+    }
+  }
+  
+  .swipeInLeft {
+    animation-name: swipeInLeft;
+    -webkit-animation-name: swipeInLeft;
+  }
+  
+  @keyframes swipeInLeft {
+    0% {
+      transform: translateX(-100%);
+    }
+  
+    100% {
+      transform: translateX(0px);
+    }
+  }
+  
+  @-webkit-keyframes swipeInLeft {
+    0% {
+      -webkit-transform: translateX(-100%);
+    }
+  
+    100% {
+      -webkit-transform: translateX(0px);
+    }
+  }
+.text-create {
+  display: inline-block;
+}
+  .text-create span {
+    position: relative;
+  }
+
+  .text-create span::after{
+    content: "";
+    position: absolute;
+    width:100%;
+    height:100%;
+    left:0;
+    background:#1E1E1E;
+    border-left:2px solid #f0e68c;
+    animation:typing 5s steps(20) infinite,blinking 1s infinite;
+  }
+
+  @keyframes typing {
+    100% {
+      left:100%;
+      
+    }
+  }
+  @keyframes blinking {
+    0% {border-left-color: transparent}
+    50% {border-left-color: #f0e68c}
+    100% {border-left-color: transparent}
+  }
+ 
