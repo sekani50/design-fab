@@ -22,7 +22,7 @@
       </div>
       <div class="flex flex-col space-y-3 justify-start">
         <p class="capitalize underline">Location address</p>
-        <p>No. 4 manomi street, Kaduna, Nigeria</p>
+        <p>No. 4 manomi street, Aiport Road, Mando, Kaduna, Nigeria</p>
       </div>
    
       <div class="flex items-center space-x-2">

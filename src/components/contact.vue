@@ -7,7 +7,7 @@
         <p class="capitalize underline">Location address</p>
         <div class="flex space-x-2 items-center">
           <div v-html="images.loc"></div>
-        <p>No. 4 manomi street, Kaduna, Nigeria</p>
+        <p>No. 4 manomi street, Aiport Road, Mando, Kaduna, Nigeria</p>
 
         </div>
       </div>

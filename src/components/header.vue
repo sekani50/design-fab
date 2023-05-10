@@ -18,7 +18,7 @@
         <img src="@/assets/images/def.png" alt="wht" />
       
     </div>
-   <p class="collectio text-white text-2xl sm:text-4xl font-medium">Design Fab_</p>
+   <p class="collectio text-white text-2xl sm:text-4xl font-medium">DesignFab</p>
   
   </div>
   </router-link>

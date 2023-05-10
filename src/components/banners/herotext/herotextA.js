@@ -50,7 +50,7 @@ export const herotexte = `
 <div
 class="let swipeInLeft w-full space-y-[3%] h-full"
 >
-<p class="text-xl sm:text-3xl tracking-wider font-bold ">DESIGN FAB_</p>
+<p class="text-xl sm:text-3xl tracking-wider font-bold ">DESIGNFAB</p>
       <p class="text-sm sm:text-lg">Experience precision and excellence in metalworking, simulation, modelling, and fabrication with our top-notch services.</p>
       <button class="p-2 rounded-md text-white bg-black ">Contact us</button>
 
