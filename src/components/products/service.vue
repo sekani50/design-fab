@@ -61,25 +61,6 @@
 
       <div class="mx-auto grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3">
         <div
-          class="text-zinc-900 text-center w-full sm:p-6 p-4 space-y-2 bg-white  bg-opacity-80 flex flex-col justify-center items-center shadow-lg rounded-lg"
-        >
-          <div class="w-12 h-12 sm:w-16 sm:h-16">
-            <img class="w-full h-full" src="@/assets/images/solid.png" alt="" />
-          </div>
-          <div class="space-y-2">
-            <p class="uppercase font-semibold">engineering simulation</p>
-
-            <div>
-              We have experts specializes in providing high-quality engineering
-              simulation solutions tailored to your specific needs. With
-              advanced software and years of experience, we can simulate
-              everything from fluid dynamics to structural analysis, helping you
-              make informed design decisions and improve your products.
-            </div>
-          </div>
-        </div>
-
-        <div
           class="text-gray-900 text-center w-full sm:p-6 p-4 space-y-2 bg-white bg-opacity-80 flex flex-col justify-center items-center shadow-lg rounded-lg"
         >
           <div class="w-12 h-12 sm:w-16 sm:h-16">
@@ -97,6 +78,25 @@
               solutions tailored to meet your unique needs. From concept to
               completion, we'll work closely with you to ensure that your
               project is completed on time, on budget, and to your satisfaction
+            </div>
+          </div>
+        </div>
+
+        <div
+          class="text-zinc-900 text-center w-full sm:p-6 p-4 space-y-2 bg-white  bg-opacity-80 flex flex-col justify-center items-center shadow-lg rounded-lg"
+        >
+          <div class="w-12 h-12 sm:w-16 sm:h-16">
+            <img class="w-full h-full" src="@/assets/images/solid.png" alt="" />
+          </div>
+          <div class="space-y-2">
+            <p class="uppercase font-semibold">engineering simulation</p>
+
+            <div>
+              We have experts specializes in providing high-quality engineering
+              simulation solutions tailored to your specific needs. With
+              advanced software and years of experience, we can simulate
+              everything from fluid dynamics to structural analysis, helping you
+              make informed design decisions and improve your products.
             </div>
           </div>
         </div>
